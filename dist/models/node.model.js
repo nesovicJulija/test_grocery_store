@@ -6,13 +6,3 @@ var NodeType;
     NodeType["OFFICE"] = "OFFICE";
     NodeType["STORE"] = "STORE";
 })(NodeType || (exports.NodeType = NodeType = {}));
-// export interface Store{
-//     nodeId : string;
-//     storeName : string;
-// }
-// export interface Office{
-//     nodeId : string;
-//     officeName : string;
-// }
-// export interface Descendants{
-// }
