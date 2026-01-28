@@ -53,6 +53,7 @@
   - /api/nodes/:id/managers -> retrieving all managers for one node
   - /api/nodes/descendants/:id/employees -> retrieving all employees for one node and all his descendants
   - /api/nodes/descendants/:id/managers -> retrieving all managers for one node and all his descendants
+    
   (Note : id used in this points is nodeId)
 
 6. Run unit tests with :
